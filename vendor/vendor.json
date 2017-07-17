@@ -15,6 +15,12 @@
 			"revisionTime": "2016-12-30T13:27:39Z"
 		},
 		{
+			"checksumSHA1": "7HXb3cry6luicWeJM9Uxwzfo9Rs=",
+			"path": "github.com/Unknwon/com",
+			"revision": "0db4a625e949e956314d7d1adea9bf82384cc10c",
+			"revisionTime": "2017-02-13T07:20:14Z"
+		},
+		{
 			"checksumSHA1": "PZ4KJai7DnuJ2YNJ2v2l2BseB1g=",
 			"path": "github.com/aymerick/raymond",
 			"revision": "72acac2207479d21dd45898c2a4264246c818148",
@@ -255,10 +261,22 @@
 			"revisionTime": "2017-03-21T23:07:31Z"
 		},
 		{
+			"checksumSHA1": "H2tsIY9G7HMo+vzrTaEb3Q5Kfjg=",
+			"path": "github.com/sergi/go-diff",
+			"revision": "feef008d51ad2b3778f85d387ccf91735543008d",
+			"revisionTime": "2017-04-09T07:17:39Z"
+		},
+		{
 			"checksumSHA1": "O2d6k/wJgvPgEfYKO6VvL1zOCc4=",
 			"path": "github.com/sirupsen/logrus",
 			"revision": "5ff5dd844dfeb4e23e27528f79f1f845bc8bb78f",
 			"revisionTime": "2017-07-17T07:50:14Z"
+		},
+		{
+			"checksumSHA1": "9LeR7BH4PSu8LRDZ8bY7QY1HXJE=",
+			"path": "github.com/urfave/cli",
+			"revision": "4b90d79a682b4bf685762c7452db20f2a676ecb2",
+			"revisionTime": "2017-07-06T19:46:25Z"
 		},
 		{
 			"checksumSHA1": "Ag672Laei0E45NrvTO4LV9B3Jfc=",
@@ -289,6 +307,24 @@
 			"path": "golang.org/x/sys/unix",
 			"revision": "4cd6d1a821c7175768725b55ca82f14683a29ea4",
 			"revisionTime": "2017-07-14T13:21:52Z"
+		},
+		{
+			"checksumSHA1": "kQ2iaHfvwpZ7XST9khZKWWxQ5Ec=",
+			"path": "golang.org/x/text",
+			"revision": "836efe42bb4aa16aaa17b9c155d8813d336ed720",
+			"revisionTime": "2017-07-09T00:38:22Z"
+		},
+		{
+			"checksumSHA1": "xsaHqy6/sonLV6xIxTNh4FfkWbU=",
+			"path": "gopkg.in/asn1-ber.v1",
+			"revision": "379148ca0225df7a432012b8df0355c2a2063ac0",
+			"revisionTime": "2017-05-11T16:59:59Z"
+		},
+		{
+			"checksumSHA1": "itYnRitfdzJjy2mZlvJ+hCJZvtY=",
+			"path": "gopkg.in/ldap.v2",
+			"revision": "8168ee085ee43257585e50c6441aadf54ecb2c9f",
+			"revisionTime": "2016-12-01T20:47:33Z"
 		},
 		{
 			"checksumSHA1": "KHOUE9QA14iPCFNIVs5X72MYdkA=",
